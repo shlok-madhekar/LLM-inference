@@ -1,6 +1,5 @@
-# ultra-cortex-v2
+# LLM infrence or some
 
---
 ### Features
 - [x] Built with love (and caffeine)
 - [x] Outperforms GPT-4* in *certain situations*
